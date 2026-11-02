@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm Donald
-I have a background in Planning, Monitoring & Evaluation, but I'm deeply passionate about the tech and AI revolution.
+I have a background in Planning, Monitoring & Evaluation, and I'm deeply passionate about the tech and AI revolution.
 
-- 🧠 My Tech Stack: Python fundamentals (CS50P coursework), and AI-assisted web development (Next.js, React, Tailwind).
+- 🧠 My Tech Stack: Python fundamentals (CS50P coursework), data science (machine learning) and AI-assisted web development (Next.js, React, Tailwind).
+- 
   
 - 🚀 What I'm doing: I believe AI is a tool to amplify human logic. I use it to build applications, like my headless e-commerce project Clean & Bliss, where I focus on architecture, system design, and problem-solving, while leveraging AI to write the frontend code.
   
